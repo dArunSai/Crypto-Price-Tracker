@@ -84,7 +84,7 @@ Builds the app for production to the `build` folder.
 🎥 Demo
 Watch the project in action here:
 
-👉 [`https://drive.google.com/file/d/1AwEDQ6uwh_V0HyltdD5BW3RIHqUZhRdq/view?usp=drive_link`](Demo Video)
+👉 [`https://drive.google.com/file/d/1AwEDQ6uwh_V0HyltdD5BW3RIHqUZhRdq/view?usp=drive_link`](https://drive.google.com/file/d/1AwEDQ6uwh_V0HyltdD5BW3RIHqUZhRdq/view?usp=drive_link)
 
 ## 🛠 Tech Stack & Architecture
 
