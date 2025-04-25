@@ -81,10 +81,10 @@ Builds the app for production to the `build` folder.
 
 ---
 
-🎥 Demo
-Watch the project in action here:
+## 🎥 Demo & Live Preview
 
-👉 [`https://drive.google.com/file/d/1DnjWIcLsTVqdvpQOD6jYw83pUfYaHPep/view?usp=drive_link`](https://drive.google.com/file/d/1DnjWIcLsTVqdvpQOD6jYw83pUfYaHPep/view?usp=drive_link)
+- 📹 [Watch on Google Drive](https://drive.google.com/file/d/1DnjWIcLsTVqdvpQOD6jYw83pUfYaHPep/view?usp=drive_link)
+- 🌐 [Try it Live on Vercel](https://crypto-price-tracker-ashen.vercel.app/)
 
 ## 🛠 Tech Stack & Architecture
 
