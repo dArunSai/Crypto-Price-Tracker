@@ -1,4 +1,4 @@
-# Real-Time Crypto Price Tracker
+    # Real-Time Crypto Price Tracker
 
 A sleek and responsive real-time cryptocurrency tracker built with React and Redux Toolkit, displaying live market data using the CoinGecko API. The app features sortable columns, visual trends, and favorite coin toggling, all optimized for desktop and mobile devices.
 
@@ -80,6 +80,10 @@ npm run build
 Builds the app for production to the `build` folder.
 
 ---
+
+🎥 Demo
+Watch the project in action here:
+👉 `https://drive.google.com/file/d/1AwEDQ6uwh_V0HyltdD5BW3RIHqUZhRdq/view?usp=drive_link`
 
 ## 🛠 Tech Stack & Architecture
 
