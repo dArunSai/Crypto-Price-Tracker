@@ -1,0 +1,91 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin-top: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 0.75rem 1rem;
+  text-align: right;
+  border-bottom: 1px solid #eee;
+}
+
+th {
+  text-align: left;
+  font-size: 0.875rem;
+  color: #555;
+}
+
+.info-icon {
+  margin-left: 4px;
+  color: #aaa;
+  vertical-align: middle;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.name-cell {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.name-cell img {
+  margin-right: 8px;
+}
+
+.symbol {
+  color: #888;
+  margin-left: 4px;
+  font-size: 0.875rem;
+}
+
+.positive {
+  color: #16a34a;
+}
+
+.negative {
+  color: #dc2626;
+}
+
+.sparkline-cell {
+  width: 120px;
+}
+
+th.sortable-header {
+  cursor: pointer;
+  user-select: none;
+}
+
+.invisible-icon {
+  opacity: 0;
+  margin-left: 4px;
+}
+.fav-off {
+  color: #ccc; /* grey outline */
+}
+
+.fav-on {
+  color: #16a34a; /* green fill */
+}
+
+@media (max-width: 768px) {
+  th:nth-child(n + 7),
+  td:nth-child(n + 7) {
+    display: none;
+  }
+}
